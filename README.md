@@ -1,7 +1,11 @@
 <h1 align="center">Hey! Everyone</h1>
 <p align="center">
+I Use Arch BTW
 </p>
 
+<p align="center">
+<img src="./Arch.gif">
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=onedark&margin-w=15&margin-h=15&column=7" alt="All My Trophies" />
@@ -15,3 +19,4 @@
 <br />
 
 <p align="center"> DISCORD: @I only know my Birth Date#5528 </p>
+<p align="center"> Server:  [BitElites](https://discord.gg/VfuCeWW9 "Discord Hacker Heaven Server") </p>
