@@ -13,7 +13,7 @@ I Use Arch BTW
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hackerW1&hide_border=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerW1&layout=compact&hide_border=true&t&card_width=195&theme=onedark" height="195rem" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerW1&layout=compact&hide_border=true&t&card_width=200&theme=onedark" height="195rem" />
 </p>
 
 <br />
