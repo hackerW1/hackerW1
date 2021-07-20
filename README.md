@@ -8,12 +8,12 @@ I Use Arch BTW
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=onedark&margin-w=15&margin-h=15&column=7" alt="All My Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=dracula&margin-w=15&margin-h=15&column=7" alt="All My Trophies" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hackerW1&hide_border=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerW1&layout=compact&hide_border=true&t&card_width=250&theme=nord" height="195rem" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerW1&layout=compact&hide_border=true&t&card_width=250&theme=onedark" height="195rem" />
 </p>
 
 <br />
