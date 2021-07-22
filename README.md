@@ -18,5 +18,5 @@ I Use Arch BTW
 
 <br />
 
-<p align="center"> DISCORD: @I only know my Birth Date#5528 </p>
-<p align="center"> Server:  <a href="https://discord.gg/VfuCeWW9"> BitElites </a> </p>
+<p align="center"> DISCORD: Raiden#2297</p>
+<p align="center"> Server:<a href="https://discord.gg/VfuCeWW9"> BitElites </a> </p>
