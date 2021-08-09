@@ -1,10 +1,10 @@
 <h1 align="center">Hey! Everyone</h1>
 <p align="center">
-I Use Arch BTW
+I Use ParrotSec BTW
 </p>
 
 <p align="center">
-<img src="./Arch.gif">
+<img src="./Parrot.gif">
 </p>
 
 <p align="center">
