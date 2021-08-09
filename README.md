@@ -19,4 +19,4 @@ I Use ParrotSec BTW
 <br />
 
 <p align="center"> DISCORD: Raiden#2297</p>
-<p align="center"> Server:<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> BitElites</a> </p>
+<p align="center"> Server:<a href="https://discord.gg/x24THvNKXT"> BitElites</a> </p>
