@@ -1,10 +1,10 @@
 <h1 align="center">Hey! Everyone</h1>
 <p align="center">
-I Use ParrotSec BTW
+I am a weeb-hacker
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/6e/79/2f/6e792fc8eedd095e0ff3b511a478eaec.gif" width="500px" height="300px">
+<img src="https://i.pinimg.com/originals/6e/79/2f/6e792fc8eedd095e0ff3b511a478eaec.gif">
 </p>
 
 <p align="center">
