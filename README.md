@@ -4,7 +4,7 @@ I am a weeb-hacker
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/6e/79/2f/6e792fc8eedd095e0ff3b511a478eaec.gif">
+<img src="https://i.pinimg.com/originals/a1/9d/14/a19d149acd516549f0a2ac035b88cd35.gif">
 </p>
 
 <p align="center">
