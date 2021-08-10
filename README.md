@@ -4,7 +4,7 @@ I Use ParrotSec BTW
 </p>
 
 <p align="center">
-<img src="./Parrot.gif">
+<img src="./Parrot.gif" width="100px" height="100px">
 </p>
 
 <p align="center">
