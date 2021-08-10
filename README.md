@@ -8,7 +8,7 @@ I Use ParrotSec BTW
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=dracula&margin-w=15&margin-h=15&column=7" alt="All My Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=onedark&margin-w=15&margin-h=15&column=7" alt="All My Trophies" />
 </p>
 
 <p align="center">
