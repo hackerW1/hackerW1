@@ -5,6 +5,8 @@ I am a weeb-hacker
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/a1/9d/14/a19d149acd516549f0a2ac035b88cd35.gif">
+<br>
+<img src="https://img.shields.io/github/followers/hackerW1?style=social">
 </p>
 
 <p align="center">
