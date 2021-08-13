@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Everyone</h1>
-<p align="center">
+<h4 align="center">
 I am a weeb-hacker
-</p>
+</h4>
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/a1/9d/14/a19d149acd516549f0a2ac035b88cd35.gif">
@@ -20,5 +20,5 @@ I am a weeb-hacker
 
 <br />
 
-<p align="center"> DISCORD: Raiden#2297</p>
+<p align="center"> DISCORD: Wumpus#9968</p>
 <p align="center"> Server:<a href="https://discord.gg/x24THvNKXT"> BitElites</a> </p>
