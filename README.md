@@ -24,7 +24,7 @@ I am a weeb-hacker
 <p align="center"> Server:<a href="https://discord.gg/x24THvNKXT"> BitElites</a> </p>
 
 <p align="right">
-<img src="https://i.stack.imgur.com/EzZiD.png" height="50px" width="50px"/>
+<img src="https://i.stack.imgur.com/EzZiD.png" height="100px" width="100px"/>
 <br>
-Horny 
+Horny Horn Unicorn
 </p>
