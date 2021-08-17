@@ -4,7 +4,7 @@ I am a weeb-hacker
 </h3>
 
 <p align="center">
-<img src="./wp6241355.jpg" height="400px" width="900px">
+<img src="https://i.gifer.com/origin/72/72536cc0a0b57073fd58e2080e13624e_w200.gif" height="100px" width="500px">
 <br>
 <img src="https://img.shields.io/github/followers/hackerW1?style=social">
 </p>
