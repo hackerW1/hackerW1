@@ -26,5 +26,5 @@ I am a weeb-hacker
 <p align="right">
 <img src="https://i.stack.imgur.com/EzZiD.png" height="50px" width="50px"/>
 <br>
-This UniCorn is horny 
+Horny 
 </p>
