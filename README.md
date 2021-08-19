@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは世界</h1>
-<h3 align="center">
-I am a weeb-hacker
+<h2 align="center">
+私はオタクハッカーです
 </h3>
 
 <p align="center">
