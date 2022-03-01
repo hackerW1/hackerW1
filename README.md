@@ -14,8 +14,11 @@ we just have to make a cool and different society where everyone is free we don'
 idk why I just can't express all of my ideas here................
 <br>
 <br>
-<p align="right">
 why am I writing this here because I don't have friends to tell my ideas or otherthings. so I posted it hereyou can mail me your ideas about this opensource society.
+<br>
+<br>
+
+<p align="center">
 eMail: hackerW1@protonmail.com
 </p>
 
