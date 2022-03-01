@@ -12,13 +12,14 @@ do you remember when the web is not bloat enough no one is tracking you, piracy 
 when we got friends. that vintage evening in the park. but sadly we can't go in past.<br>
 we just have to make a cool and different society where everyone is free we don't get judge by our marks and different things.<br>
 idk why I just can't express all of my ideas here................
-
-
-<p align="center">
-why am I writing this here because I don't have friends to tell my ideas or otherthings. so I posted it here
-you can mail me your ideas about this opensource society
+<br>
+<br>
+<p align="right">
+why am I writing this here because I don't have friends to tell my ideas or otherthings. so I posted it hereyou can mail me your ideas about this opensource society.
 eMail: hackerW1@protonmail.com
 </p>
+
+---
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/hackerW1?style=social">
