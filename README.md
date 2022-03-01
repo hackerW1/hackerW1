@@ -1,23 +1,19 @@
-<h1 align="center">こんにちは世界</h1>
+<h1 align="center">Hello 世界</h1>
 <h2 align="center">
-私はオタクハッカーです
-</h3>
+I am a cyber-security student
+</h2>
 
 ---
 
+<h4>about me:</h4> <br>
+I am just a normal guy who just loves computers and opensource stuff and want to build a different society.
+Why? because this society sucks.<br>
+I am not giving you a lecture that how it sucks, you all know about it already and if you couldn't guess it, just gtfo of my profile.<br>
+do you remember when the web is not bloat enough no one is tracking you, piracy was cool, there were cool things on 4chan and reddit.<br>
+when we got friends. that vintage evening in the park. but sadly we can't go in past.
+we just have to make a cool and different society where everyone is free we don't get judge by our marks.
+
 <p align="center">
-<img src="https://gifimage.net/wp-content/uploads/2017/07/hacked-gif-23.gif" height="500px" width="900px">
-<br>
 <img src="https://img.shields.io/github/followers/hackerW1?style=social">
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackerW1&theme=onedark&margin-w=15&margin-h=15&column=7" alt="All My Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackerW1&layout=compact&hide_border=true&t&card_width=150&theme=onedark" height="150rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerW1&layout=compact&hide_border=true&t&card_width=250&theme=onedark" height="150rem" />
-</p>
-
-<br />
+<br>
